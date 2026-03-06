@@ -25,7 +25,9 @@ My work includes:
 
 Through real factory experience, I realized something important:
 
-> Many simulation tools are too abstract to be truly useful in real production engineering.
+> Through real factory experience, I realized that
+production engineers often need more practical
+and transparent simulation tools.
 
 So I started building my own simulation system.
 
