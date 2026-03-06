@@ -8,8 +8,9 @@ Production engineer building next-generation factory simulation tools based on r
 
 Mechanical engineering background.
 
-Studied **fluid simulation** at  
-**Yokohama National University – Graduate School of Systems Integration Engineering**.
+Studied **fluid simulation** at 
+**Yokohama National University**
+(Graduate School of Systems Integration Engineering, Master's degree).
 
 During my research, I developed **custom simulation codes** for fluid analysis.
 
