@@ -14,6 +14,14 @@ Studied **fluid simulation** at
 
 During my research, I developed **custom simulation codes** for fluid analysis.
 
+<p align="center">
+  <img src="assets/research/fairing-optimization.png" alt="Fairing shape optimization result from graduate research" width="720">
+</p>
+
+<p align="center">
+  <em>Graduate research: fairing shape optimization using fluid simulation and genetic algorithms.</em>
+</p>
+
 After graduation, I joined an **automotive manufacturer** as a **production engineer**.
 
 My work includes:
