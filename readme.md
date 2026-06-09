@@ -68,6 +68,40 @@ FactSim is designed to answer real engineering questions such as:
 
 ---
 
+## Public Open Data Apps
+
+I also build civic-tech web applications using local government open data.
+
+Some of my web apps have been listed as public open data use cases by Japanese public organizations:
+
+- **Digital Agency, Government of Japan**  
+  Hamamatsu City Event Map  
+  https://www.digital.go.jp/resources/data_case_study_local
+
+- **Hamamatsu City**  
+  Childcare facility status map apps  
+  https://www.city.hamamatsu.shizuoka.jp/koho2/opendata/jirei.html
+
+- **Shizuoka Prefecture Open Data**  
+  Hamamatsu City Event Map  
+  https://opendata.pref.shizuoka.jp/agreement.html
+
+Related apps:
+
+- Hamamatsu City Event Map  
+  https://suzuking001.github.io/event_map/
+
+- Childcare temporary availability map  
+  https://suzuking001.github.io/kodomo_map/
+
+- Childcare application demand map  
+  https://suzuking001.github.io/bosyu_map/
+
+- Universal childcare program facility map  
+  https://suzuking001.github.io/daredemo_map/
+
+---
+
 ## Philosophy
 
 Manufacturing systems can be modeled as **discrete event systems**.
