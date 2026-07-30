@@ -47,6 +47,8 @@ So I started building my own simulation system.
 
 A **practical factory simulation tool** designed by a real production engineer.
 
+![FactSim demo](assets/fact_sim_demo.gif)
+
 🔗 https://github.com/suzuking001/fact_sim
 
 Focus areas:
