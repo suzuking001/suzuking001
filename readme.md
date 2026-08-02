@@ -70,6 +70,22 @@ FactSim is designed to answer real engineering questions such as:
 
 ---
 
+## Simulation Projects
+
+### Vortex Lab
+
+An **interactive WebGPU simulation** for exploring flow fields and particle behavior in real time.
+
+<p align="center">
+  <img src="assets/vortex-lab-demo.gif" alt="Vortex Lab real-time vortex simulation demo" width="720">
+</p>
+
+Switch between multiple flow patterns and tune parameters to observe how vortices and passive tracers evolve.
+
+🔗 https://github.com/suzuking001/uzuhou_web
+
+---
+
 ## Public Open Data Apps
 
 I also build civic-tech web applications using local government open data.
